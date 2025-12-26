@@ -58,4 +58,5 @@ Program dibuat menggunakan **sistem menu**, dengan fitur:
 # Nama Kelompok 09
 - Muhammad Ariqo Marvin Valentino (101012400270)
 - Avinda Novencia Vincent (101012430019)
+- Zidane Ahmad Farabi (101012400177)
 - 
