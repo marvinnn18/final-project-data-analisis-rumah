@@ -59,4 +59,4 @@ Program dibuat menggunakan **sistem menu**, dengan fitur:
 - Muhammad Ariqo Marvin Valentino (101012400270)
 - Avinda Novencia Vincent (101012430019)
 - Zidane Ahmad Farabi (101012400177)
-- 
+- Wibby Fariz Cendekiawan	(101012400257)
