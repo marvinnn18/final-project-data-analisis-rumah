@@ -47,11 +47,11 @@ Program dibuat menggunakan **sistem menu**, dengan fitur:
 
 
 # Machine Learning
-# Supervised Learning
+## Supervised Learning
 - Model: Linear Regression  
 - Fungsi: Memprediksi harga rumah  
 
-# Unsupervised Learning
+## Unsupervised Learning
 - Model: K-Means  
 - Fungsi: Mengelompokkan rumah berdasarkan luas dan harga  
 
